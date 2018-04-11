@@ -81,7 +81,7 @@
     <WindowPosition>
       <length>44</length>
       <flags>2</flags>
-      <showCmd>2</showCmd>
+      <showCmd>3</showCmd>
       <MinPosition>
         <xPos>-32000</xPos>
         <yPos>-32000</yPos>
@@ -100,8 +100,8 @@
     <MDIClientArea>
       <RegID>0</RegID>
       <MDITabState>
-        <Len>918</Len>
-        <Data>0100000004000000010000000100000001000000010000000000000002000000000000000100000001000000000000002800000028000000010000000900000001000000010000002D433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C555345525C6D61696E2E6300000000066D61696E2E6300000000FFDC7800FFFFFFFF38433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53595354454D5C73746572766F5C73746572766F2E63000000000873746572766F2E6300000000BECEA100FFFFFFFF36433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53595354454D5C6D6F746F725C6D6F746F722E6300000000076D6F746F722E6300000000F0A0A100FFFFFFFF3C433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53595354454D5C696E6672617265645C696E6672617265642E63000000000A696E6672617265642E6300000000BCA8E100FFFFFFFF32433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53595354454D5C6164635C6164632E6300000000056164632E63000000009CC1B600FFFFFFFF36433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53595354454D5C75736172745C75736172742E63000000000775736172742E6300000000F7B88600FFFFFFFF3C433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53544D3332463130785F46574C69625C7372635C6D6973632E6300000000066D6973632E6300000000D9ADC200FFFFFFFF46433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53544D3332463130785F46574C69625C696E635C73746D3332663130785F6770696F2E68000000001073746D3332663130785F6770696F2E6800000000A5C2D700FFFFFFFF3C433A5C55736572735C42616E676A5C4465736B746F705C736572766F5F746573745C53595354454D5C696E6672617265645C696E6672617265642E68000000000A696E6672617265642E6800000000B3A6BE00FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000CC83FFFF4F83FFFF4089FFFFDF85FFFF</Data>
+        <Len>530</Len>
+        <Data>01000000040000000100000001000000010000000100000000000000020000000000000001000000010000000000000028000000280000000100000004000000030000000100000037433A5C55736572735C42616E676A5C4465736B746F705C536D6172742D6361725C736572766F5F746573745C555345525C6D61696E2E6300000000066D61696E2E6300000000FFDC7800FFFFFFFF42433A5C55736572735C42616E676A5C4465736B746F705C536D6172742D6361725C736572766F5F746573745C53595354454D5C73746572766F5C73746572766F2E63000000000873746572766F2E6300000000EAD6A300FFFFFFFF40433A5C55736572735C42616E676A5C4465736B746F705C536D6172742D6361725C736572766F5F746573745C53595354454D5C6D6F746F725C6D6F746F722E6300000000076D6F746F722E6300000000BECEA100FFFFFFFF46433A5C55736572735C42616E676A5C4465736B746F705C536D6172742D6361725C736572766F5F746573745C53595354454D5C696E6672617265645C696E6672617265642E63000000000A696E6672617265642E6300000000F0A0A100FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000CC0000006600000040060000F6020000</Data>
       </MDITabState>
     </MDIClientArea>
     <ViewEx>
@@ -1460,17 +1460,17 @@
         <RecentRowIndex>0</RecentRowIndex>
         <RectRecentDocked>
           <Len>16</Len>
-          <Data>0383FFFFD084FFFF0383FFFFD084FFFF</Data>
+          <Data>DB030000660000009D04000035010000</Data>
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>0A0000000A0000006E0000006E000000</Data>
+          <Data>560000006D0000001E0100001C010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
         <RegID>50011</RegID>
         <PaneID>50011</PaneID>
-        <IsVisible>1</IsVisible>
+        <IsVisible>0</IsVisible>
         <IsFloating>0</IsFloating>
         <IsTabbed>0</IsTabbed>
         <IsActivated>0</IsActivated>
@@ -1480,17 +1480,17 @@
         <RecentRowIndex>0</RecentRowIndex>
         <RectRecentDocked>
           <Len>16</Len>
-          <Data>01000000FA0200009D04000015030000</Data>
+          <Data>DB030000660000009D04000035010000</Data>
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>0A0000000A0000006E0000006E000000</Data>
+          <Data>560000006D0000001E0100001C010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
         <RegID>50012</RegID>
         <PaneID>50012</PaneID>
-        <IsVisible>1</IsVisible>
+        <IsVisible>0</IsVisible>
         <IsFloating>0</IsFloating>
         <IsTabbed>0</IsTabbed>
         <IsActivated>0</IsActivated>
@@ -1500,11 +1500,11 @@
         <RecentRowIndex>0</RecentRowIndex>
         <RectRecentDocked>
           <Len>16</Len>
-          <Data>D986FFFF6683FFFF9D87FFFF8183FFFF</Data>
+          <Data>DB030000660000009D04000035010000</Data>
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>0A0000000A0000006E0000006E000000</Data>
+          <Data>560000006D0000001E0100001C010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1520,17 +1520,17 @@
         <RecentRowIndex>0</RecentRowIndex>
         <RectRecentDocked>
           <Len>16</Len>
-          <Data>0383FFFFD084FFFFCB83FFFFEB84FFFF</Data>
+          <Data>DB030000660000009D04000035010000</Data>
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>0A0000000A0000006E0000006E000000</Data>
+          <Data>560000006D0000001E0100001C010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
         <RegID>50014</RegID>
         <PaneID>50014</PaneID>
-        <IsVisible>1</IsVisible>
+        <IsVisible>0</IsVisible>
         <IsFloating>0</IsFloating>
         <IsTabbed>0</IsTabbed>
         <IsActivated>0</IsActivated>
@@ -1540,11 +1540,11 @@
         <RecentRowIndex>0</RecentRowIndex>
         <RectRecentDocked>
           <Len>16</Len>
-          <Data>0183FFFFD084FFFF9D87FFFFEB84FFFF</Data>
+          <Data>DB030000660000009D04000035010000</Data>
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>0A0000000A0000006E0000006E000000</Data>
+          <Data>560000006D0000001E0100001C010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1640,11 +1640,11 @@
         <RecentRowIndex>0</RecentRowIndex>
         <RectRecentDocked>
           <Len>16</Len>
-          <Data>0383FFFFD084FFFFCB83FFFFEB84FFFF</Data>
+          <Data>DB030000660000009D04000035010000</Data>
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>0A0000000A0000006E0000006E000000</Data>
+          <Data>560000006D0000001E0100001C010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1812,28 +1812,28 @@
     <ActiveMDIGroup>0</ActiveMDIGroup>
     <MDIGroup>
       <Size>100</Size>
-      <ActiveTab>1</ActiveTab>
+      <ActiveTab>3</ActiveTab>
       <Doc>
         <Name>.\main.c</Name>
-        <ColumnNumber>11</ColumnNumber>
-        <TopLine>26</TopLine>
-        <CurrentLine>39</CurrentLine>
+        <ColumnNumber>23</ColumnNumber>
+        <TopLine>33</TopLine>
+        <CurrentLine>42</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
         <Name>..\SYSTEM\stervo\stervo.c</Name>
-        <ColumnNumber>24</ColumnNumber>
-        <TopLine>21</TopLine>
-        <CurrentLine>32</CurrentLine>
+        <ColumnNumber>13</ColumnNumber>
+        <TopLine>1</TopLine>
+        <CurrentLine>18</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
         <Name>..\SYSTEM\motor\motor.c</Name>
-        <ColumnNumber>0</ColumnNumber>
+        <ColumnNumber>11</ColumnNumber>
         <TopLine>12</TopLine>
         <CurrentLine>31</CurrentLine>
         <Folding>1</Folding>
@@ -1842,54 +1842,9 @@
       </Doc>
       <Doc>
         <Name>..\SYSTEM\infrared\infrared.c</Name>
-        <ColumnNumber>23</ColumnNumber>
+        <ColumnNumber>26</ColumnNumber>
         <TopLine>1</TopLine>
-        <CurrentLine>1</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>..\SYSTEM\adc\adc.c</Name>
-        <ColumnNumber>13</ColumnNumber>
-        <TopLine>20</TopLine>
-        <CurrentLine>6</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>..\SYSTEM\usart\usart.c</Name>
-        <ColumnNumber>5</ColumnNumber>
-        <TopLine>112</TopLine>
-        <CurrentLine>7</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>..\STM32F10x_FWLib\src\misc.c</Name>
-        <ColumnNumber>0</ColumnNumber>
-        <TopLine>1</TopLine>
-        <CurrentLine>1</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>..\STM32F10x_FWLib\inc\stm32f10x_gpio.h</Name>
-        <ColumnNumber>0</ColumnNumber>
-        <TopLine>122</TopLine>
-        <CurrentLine>127</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>..\SYSTEM\infrared\infrared.h</Name>
-        <ColumnNumber>17</ColumnNumber>
-        <TopLine>1</TopLine>
-        <CurrentLine>4</CurrentLine>
+        <CurrentLine>8</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>

@@ -34,6 +34,7 @@ int main() {
 	delay_init();
 	motor_init();
 	stervo_init();
+	infrared_init();
 	//stop();
 	while(1) {
 	set_stervo_angle(80);
